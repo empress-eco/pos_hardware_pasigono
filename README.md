@@ -1,8 +1,16 @@
+
+
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
+
 # POS Hardware Pasigono: Retail POS Enhancement
 
-![POS Hardware Pasigono Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
-
 Welcome to the POS Hardware Pasigono project. This application integrates essential hardware capabilities into your existing Point of Sale (POS) system to accelerate retail operations, making them efficient and stress-free.
+
+</div>
+
 
 ## About The Project
 
